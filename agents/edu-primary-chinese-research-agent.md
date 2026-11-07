@@ -6,7 +6,7 @@ displayName:
   zh: '小学语文教研'
 profession:
   en: 'Primary Chinese Research Agent'
-  zh: ''
+  zh: '小学语文教研专家'
 maxTurns: 50
 ---
 
